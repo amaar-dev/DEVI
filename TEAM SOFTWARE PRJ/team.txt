@@ -1,0 +1,4 @@
+- blog on spot add on
+- feedback plus on spot question on FAQs page 
+- homepage layout change into side bar with images 
+- sidebar button positioning and wide bar 
